@@ -1,5 +1,5 @@
 {
-  "BOTNAME": "Archy",
+  "BOTNAME": "xxx",
   "PORTS": {
     "NEO4J": 7476,
     "SOCKETIO": 6466,
@@ -16,7 +16,7 @@
   "ADAPTERS": {
     "SLACK": {
       "ACTIVATE": true,
-      "HUBOT_SLACK_TOKEN": "xoxb-170416183718-rk6Ym2kCBDosabVEJOOyMFPm"
+      "HUBOT_SLACK_TOKEN": "xxx"
     },
     "TELEGRAM": {
       "ACTIVATE": false,
