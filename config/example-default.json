@@ -16,7 +16,7 @@
   "ADAPTERS": {
     "SLACK": {
       "ACTIVATE": true,
-      "HUBOT_SLACK_TOKEN": "add custom slack bot https://my.slack.com/services/new/bot"
+      "HUBOT_SLACK_TOKEN": "xoxb-170416183718-rk6Ym2kCBDosabVEJOOyMFPm"
     },
     "TELEGRAM": {
       "ACTIVATE": false,
