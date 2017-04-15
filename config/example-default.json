@@ -1,5 +1,5 @@
 {
-  "BOTNAME": "aivadev",
+  "BOTNAME": "Archy",
   "PORTS": {
     "NEO4J": 7476,
     "SOCKETIO": 6466,
